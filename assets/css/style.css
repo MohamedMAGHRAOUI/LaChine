@@ -1,0 +1,31 @@
+.bleu{background: black;}
+
+main{min-height: 100vh;
+background: orange;}
+
+article{height: 500px;
+padding: 5vh 0;}
+
+.format{ width: 60%;
+margin: auto;
+min-height: 400px;
+background: black;
+color: white;}
+
+.btn-perso{ background: paleturquoise;}
+
+.btn-perso:hover{background: green;
+border: none;}
+
+.btn-danger:hover{background: green;
+border: none;}
+
+.btn-primary:hover{background: green;
+border: none;}
+
+.fa-linkedin,
+.fa-github
+{font-size: 20px;
+color: white;}
+
+.indeed{color: white;}
